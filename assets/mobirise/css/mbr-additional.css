@@ -1935,6 +1935,9 @@ section.lazy-placeholder:after {
     margin: 1rem 0 0 0;
   }
 }
+.cid-rFCcntgIGj P {
+  color: #149dcc;
+}
 .cid-rFI4dNpFeG {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -3214,6 +3217,7 @@ section.lazy-placeholder:after {
 }
 .cid-rFacUbaB7Z .mbr-timeline-text {
   text-align: left;
+  color: #232323;
 }
 .cid-rFacUbaB7Z .mbr-timeline-date {
   color: #333333;
